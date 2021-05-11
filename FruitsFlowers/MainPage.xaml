@@ -7,7 +7,7 @@
     <Grid>
         <Image Source="wallpaper.jpg" Aspect="AspectFill"/>
         <BoxView Color="Black" Opacity="0.8"/>
-
+        <Label Text="Hola mundo"/>
         <Grid>
             <Grid.RowDefinitions>
                 <RowDefinition Height="Auto"/>
